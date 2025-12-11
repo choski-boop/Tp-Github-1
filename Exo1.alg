@@ -14,13 +14,13 @@
     </item>
     <item code="101#debutalgo" algoitem="DEBUT_ALGORITHME">
         <item code="5#A#1:2:3:4:5:6:7:8:9:10#1" algoitem="A[1] PREND_LA_VALEUR 1:2:3:4:5:6:7:8:9:10"/>
-        <item code="12#i#1#30" algoitem="POUR i ALLANT_DE 1 A 30">
+        <item code="12#i#1#30" algoitem="POUR i ALLANT_DE 2 A 30">
             <item code="13#debutpour" algoitem="DEBUT_POUR"/>
             <item code="5#SOMME#SOMME + A[i]#pasliste" algoitem="SOMME PREND_LA_VALEUR SOMME + A[i]"/>
             <item code="14#finpour" algoitem="FIN_POUR"/>
         </item>
         <item code="4#Le tableau saisi est : #1" algoitem="AFFICHER &quot;Le tableau saisi est : &quot;"/>
-        <item code="12#i#1#30" algoitem="POUR i ALLANT_DE 4 A 30">
+        <item code="12#i#1#30" algoitem="POUR i ALLANT_DE 2 A 30">
             <item code="13#debutpour" algoitem="DEBUT_POUR"/>
             <item code="3#A#0#i" algoitem="AFFICHER A[i]"/>
             <item code="4#; #0" algoitem="AFFICHER &quot;; &quot;"/>
